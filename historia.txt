@@ -1,3 +1,4 @@
 Esta es la historia de rafa
 
 mi primer precto en git
+E hice mi primer commit en git bash 
