@@ -1,3 +1,5 @@
-Hola, mi nobre es rafael
+Hola, mi nombre es rafael
 Tengo 28 años y estoy aprendiendo git & git hub
-
+Tengo que aprender a programr en 6 meses
+Vivo en Colombia
+hdft
