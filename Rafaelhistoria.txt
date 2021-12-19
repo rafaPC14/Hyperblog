@@ -1,0 +1,3 @@
+Hola, mi nobre es rafael
+Tengo 28 años y estoy aprendiendo git & git hub
+
