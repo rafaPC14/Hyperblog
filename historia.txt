@@ -1,5 +1,7 @@
 Esta es la historia de rafa
 
-mi primer precto en git
+mi primer proyecto en git
 E hice mi primer commit en git bash 
 tengo 28 años.
+En camara parece alto, pero la verdad es que
+en tal alto
