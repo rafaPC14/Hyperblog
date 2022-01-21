@@ -2,9 +2,8 @@ Hola, mi nombre es rafael
 Tengo 28 años y estoy aprendiendo git & git hub
 Tengo que aprender a programar en 6 meses
 
+Experimento 1
+Experimento 2
 Master 1
 Vivo en Colombia
 hdft
-
-
-master2
